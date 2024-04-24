@@ -10,7 +10,7 @@ body {
 
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)),
-    url("/src/images/La-Turn-cafe.png");
+    url("/src/images/La-Turn-final.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
@@ -44,7 +44,6 @@ header a {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.5;
-
   text-align: center;
   color: #272044;
   padding: 16px 32px;
