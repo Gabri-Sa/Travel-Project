@@ -9,7 +9,7 @@ body {
 }
 
 header {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("/src/images/Turn.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -68,8 +68,8 @@ section {
 footer {
   color: white;
   background-image: linear-gradient(
-      rgba(39, 32, 68, 0.9),
-      rgba(39, 32, 68, 0.9)
+      rgba(39, 32, 68, 0.7),
+      rgba(39, 32, 68, 0.7)
     ),
     url("/src/images/Sibiu.jpg");
   background-repeat: no-repeat;
